@@ -79,7 +79,7 @@ nav ul li a:hover {
 }
 
 .bienvenida p {
-  color: #64748b;
+  color: #000000;
   font-size: 16px;
   font-weight: 300;
 }
@@ -193,7 +193,7 @@ footer p {
 }
 
 .columna p {
-  color: #64748b;
+  color: #000000;
   font-size: 14px;
   line-height: 1.8;
   font-weight: 300;
@@ -215,7 +215,7 @@ footer p {
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #666;
+  color: rgb(0, 0, 0);
   font-weight: 400;
 }
 
@@ -281,7 +281,7 @@ footer p {
 
 .tabla-servicios td {
   font-weight: 300;
-  color: #666;
+  color: #000000;
 }
 
 .encabezado-tabla {
